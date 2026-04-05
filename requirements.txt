@@ -1,0 +1,7 @@
+bettercam
+opencv-python
+numpy
+ultralytics
+vgamepad
+pynput
+mediapipe
