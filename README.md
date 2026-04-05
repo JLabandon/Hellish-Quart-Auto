@@ -6,7 +6,11 @@ This project is a real-time automation system for Hellish Quart. It combines scr
 
 ## Demo
 
-<video src="output/demo-sz.mp4" controls muted playsinline width="960"></video>
+
+
+https://github.com/user-attachments/assets/cca69149-ce87-4f47-aa13-0612dfa6db08
+
+
 
 If the embedded player is not available on your platform, open the demo directly: [output/demo.mp4](output/demo.mp4)
 
