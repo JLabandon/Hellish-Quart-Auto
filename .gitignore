@@ -36,6 +36,7 @@ Thumbs.db
 # Runtime artifacts
 output/*
 !output/demo.mp4
+!output/demo-sz.mp4
 !output/.gitkeep
 
 # Downloaded / heavy model artifacts
